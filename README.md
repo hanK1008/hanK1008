@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hanK1008
 - 👀 I’m interested in ... many things
 - 🌱 I’m currently... learning 
-- 💞️ I’m looking to learning more and more, and someone whom I can learn more
+- 💞️ I’m looking to learning more and more, and someone from whom I can learn even more
 - 📫 How to reach me : mohdahmedk@gmail.com
 
 <!---
