@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hanK1008
+- 👋 Hi, I’m hanK 
 - 👀 I’m interested in ... many things
 - 🌱 I’m currently... learning 
 - 💞️ I’m looking to learning more and more, and someone from whom I can learn even more
