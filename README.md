@@ -1,7 +1,7 @@
 - 👋 Hi, I’m hanK 
 - 👀 I’m interested in ... many things
 - 🌱 I’m currently... learning 
-- 💞️ I’m looking to learning more and more, and someone from whom I can learn even more
+- 💞️ I'm always hungry to learn more--Tinkering with code like it's '84. Learning from legends, breaking things to build better. Just another curious mind in the machine
 - 📫 How to reach me : mohdahmedk.study@gmail.com
 
 <!---
